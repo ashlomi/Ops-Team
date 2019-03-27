@@ -24,7 +24,7 @@
 				"ashlomitest@gmail.com",
 				"Music Team"
 			],
-			"runOnCreation": false,
+			"runOnCreation": true,
 			"applicationVersions": [
 				"Local|Music IMS/${musicImsReleaseVersion}",
 				"Local|Music Backend/${musicBackendAppVersion}",
